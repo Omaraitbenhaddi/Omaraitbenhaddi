@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align='center'>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-OMAR%20AITBENHADDI-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraitbenhaddi/) [![Mail Badge](https://img.shields.io/badge/-OMAR%20AITBENHADDI-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/omaraitbenhaddi/) [![Mail Badge](https://img.shields.io/badge/-OMAR%20AITBENHADDI-c0392b?style=flat&labelColor=c0392b&logo=YOUTUBE&logoColor=white)](https://www.youtube.com/channel/UC4UAdfFcPpUEtrnVW8QS4MA)
+ 
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+
 <!--
 **Omaraitbenhaddi/Omaraitbenhaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
