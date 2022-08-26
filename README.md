@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omaraitbenhaddi)](https://github.com/Omaraitbenhaddi)
 
 -->
-
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omaraitbenhaddi)](https://github.com/Omaraitbenhaddi)
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Omaraitbenhaddi&count_private=true&show_icons=true&theme=light)
 
