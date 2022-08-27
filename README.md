@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 
 
 -->
-<div align="center">  
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Omaraitbenhaddi&count_private=true&show_icons=true&theme=light)
-</div>
 
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omaraitbenhaddi&show_icons=true&theme=radical)
