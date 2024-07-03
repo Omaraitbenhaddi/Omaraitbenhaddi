@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omaraitbenhaddi&show_icons=true&theme=radical)
 -->
-[![coding time](https://github-readme-stats.vercel.app/api/wakatime?username=Omaraitbenhaddi)](https://github.com/Omaraitbenhaddi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omaraitbenhaddi&layout=compact)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Omaraitbenhaddi&theme=nord&column=7" >
