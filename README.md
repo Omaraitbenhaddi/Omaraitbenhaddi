@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 
 -->
+<!--
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Omaraitbenhaddi&count_private=true&show_icons=true&theme=light)
 
-<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omaraitbenhaddi&show_icons=true&theme=radical)
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omaraitbenhaddi&layout=compact)
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Omaraitbenhaddi&theme=nord&column=7" >
